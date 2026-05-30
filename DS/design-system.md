@@ -84,6 +84,4 @@ E dela podemos finalmente destrinchar tokens semânticos, que são MUITO úteis 
 Basicamente tokens semânticos são informações de como um determinado elemento é usado num DS ou numa biblioteca de códigos.
 
 Por exemplo, ao invés de ficar colocando a cor azul para um botão e uma cor branca como texto de preenchimento dentro do botão, podemos simplesmente referenciar `primary` à cor e `onPrimary` em referência à qualquer coisa que vai ficar acima da cor primária, como por exemplo um texto ou um ícone.
-
-Isso é uma mão na roda, e principalmente quando o
 ```
