@@ -41,11 +41,27 @@ Na verdade, primeiro selecionamos a cor clara a partir das duas cores que ja tin
 
 Todo esse processo de definir as cores primaria e secundaria e depois gerar a cor clara foi feito com o site <https://coolors.co/?home>, que gera algumas paletas de cores.
 
+### Imagem 1 - Geracao de cores a partir de cores primarias
+
+As cores definidas no Coolors podem ser travadas com cadeado para manter tons fixos enquanto novas variacoes sao geradas.
+
+![Imagem 1 - Geracao de cores a partir de cores primarias](../assets/images/coresds/imagem-1-geracao-cores.png)
+
+Link da paleta usada: <https://coolors.co/1d3a70-f8333c-f5f3f5-379634-19c3c3>
+
 ---
 
 ## Documentando no Figma
 
 Para documentar tudo isso, la no Figma tem uma pagina que foi criada. Usando o plugin Color Card da para ter uma ideia inicial, pelo menos das principais cores do app.
+
+### Imagem 2 - Hierarquia das cores
+
+![Imagem 2 - Hierarquia das cores](../assets/images/coresds/imagem-2-hierarquia-cores.png)
+
+### Imagem 3 - Escolha da cor para o tema claro
+
+![Imagem 3 - Escolha da cor para o tema claro](../assets/images/coresds/imagem-3-escolha-tema-claro.png)
 
 Mas nao existe app no mundo que se sustente apenas com 3 cores.
 
@@ -72,7 +88,19 @@ Para escolher cada uma das cores semanticas, alem de voltar ao <https://coolors.
 
 Cada uma das cores so foi escolhida depois de passar nos testes de contraste de objetos graficos e componentes da interface do usuario.
 
+### Imagem 4 - Testes de acessibilidade por contraste
+
+Ferramenta utilizada: <https://webaim.org/resources/contrastchecker/>
+
+![Imagem 4A - Teste de contraste no WebAIM](../assets/images/coresds/imagem-4-contraste-a.png)
+
+![Imagem 4B - Teste de contraste no WebAIM](../assets/images/coresds/imagem-4-contraste-b.png)
+
 Com isso, finalmente chegamos a paleta de cores basicas.
+
+### Imagem 5 - Paleta de cores final
+
+![Imagem 5 - Paleta de cores](../assets/images/coresds/imagem-5-paleta-cores.png)
 
 ---
 
