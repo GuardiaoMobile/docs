@@ -380,6 +380,27 @@ hr {
     margin:3rem 0;
 }
 
+.page img {
+
+    display:block;
+
+    width:100%;
+
+    max-width:920px;
+
+    max-height:560px;
+
+    object-fit:contain;
+
+    margin:1rem auto 1.75rem;
+
+    border:1px solid var(--border);
+
+    border-radius:14px;
+
+    background:var(--surface);
+}
+
 @media (max-width:900px) {
 
     .layout {
@@ -408,5 +429,10 @@ hr {
     .hero h1 {
 
         font-size:2rem;
+    }
+
+    .page img {
+
+        max-height:none;
     }
 }
