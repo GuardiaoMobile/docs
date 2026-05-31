@@ -1,0 +1,19 @@
+title: "Guardião - System Docs"
+description: "Technical documentation for Guardião."
+baseurl: "/docs"
+url: ""
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - README.md
