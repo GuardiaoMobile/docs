@@ -2,19 +2,19 @@
 title: Home
 ---
 
+{% include language-switcher.html %}
+
 <section class="hero">
 
-# Guardião — System Docs
+# <span data-i18n="hero_title"></span>
 
-Technical documentation for the project.
-
-Design decisions, tokens, interfaces, architecture and implementation notes.
+<span data-i18n="hero_subtitle"></span>
 
 <div class="hero-actions">
 
 <a class="button primary" href="./DS/design-system">
 
-Open Design System →
+<span data-i18n="open_ds"></span>
 
 </a>
 
@@ -24,47 +24,47 @@ Open Design System →
 
 ---
 
-## Documentation Areas
+## <span data-i18n="documentation_areas"></span>
 
 <div class="cards">
 
 <div class="card">
 
-### Design System
+### <span data-i18n="design_system_title"></span>
 
-Foundations, color strategy, spacing, typography and component philosophy.
+<span data-i18n="design_system_description"></span>
 
-[Open →](./DS/design-system)
-
-</div>
-
-<div class="card muted">
-
-### Components
-
-Reusable UI building blocks.
-
-_coming soon_
+[<span data-i18n="open"></span>](./DS/design-system)
 
 </div>
 
 <div class="card muted">
 
-### Architecture
+### <span data-i18n="components_title"></span>
 
-Project structure, technical decisions and flows.
+<span data-i18n="components_description"></span>
 
-_coming soon_
+_<span data-i18n="coming_soon"></span>_
 
 </div>
 
 <div class="card muted">
 
-### API
+### <span data-i18n="architecture_title"></span>
 
-Endpoints, contracts and integrations.
+<span data-i18n="architecture_description"></span>
 
-_coming soon_
+_<span data-i18n="coming_soon"></span>_
+
+</div>
+
+<div class="card muted">
+
+### <span data-i18n="api_title"></span>
+
+<span data-i18n="api_description"></span>
+
+_<span data-i18n="coming_soon"></span>_
 
 </div>
 
@@ -72,11 +72,11 @@ _coming soon_
 
 ---
 
-## About
+## <span data-i18n="about_title"></span>
 
-Guardião documentation workspace.
+<span data-i18n="about_description"></span>
 
-Built with:
+<span data-i18n="built_with"></span>
 
 - Jekyll
 - GitHub Pages

@@ -1,0 +1,52 @@
+{
+  "hero_title":
+  "Guardião — Documentação do Sistema",
+
+  "hero_subtitle":
+  "Documentação técnica do projeto.",
+
+  "open_ds":
+  "Abrir Design System →",
+
+  "documentation_areas":
+  "Áreas da Documentação",
+
+  "design_system_title":
+  "Design System",
+
+  "design_system_description":
+  "Fundamentos, estratégia de cores, espaçamento, tipografia e filosofia de componentes.",
+
+  "components_title":
+  "Componentes",
+
+  "components_description":
+  "Blocos reutilizáveis de interface.",
+
+  "architecture_title":
+  "Arquitetura",
+
+  "architecture_description":
+  "Estrutura do projeto, decisões técnicas e fluxos.",
+
+  "api_title":
+  "API",
+
+  "api_description":
+  "Endpoints, contratos e integrações.",
+
+  "coming_soon":
+  "em breve",
+
+  "about_title":
+  "Sobre",
+
+  "about_description":
+  "Workspace de documentação do Guardião.",
+
+  "built_with":
+  "Construído com:",
+
+  "open":
+  "Abrir →"
+}

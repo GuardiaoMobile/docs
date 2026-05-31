@@ -1,0 +1,51 @@
+{
+  "hero_title": "Guardião — System Docs",
+
+  "hero_subtitle":
+  "Technical documentation for the project.",
+
+  "open_ds":
+  "Open Design System →",
+
+  "documentation_areas":
+  "Documentation Areas",
+
+  "design_system_title":
+  "Design System",
+
+  "design_system_description":
+  "Foundations, color strategy, spacing, typography and component philosophy.",
+
+  "components_title":
+  "Components",
+
+  "components_description":
+  "Reusable UI building blocks.",
+
+  "architecture_title":
+  "Architecture",
+
+  "architecture_description":
+  "Project structure, technical decisions and flows.",
+
+  "api_title":
+  "API",
+
+  "api_description":
+  "Endpoints, contracts and integrations.",
+
+  "coming_soon":
+  "coming soon",
+
+  "about_title":
+  "About",
+
+  "about_description":
+  "Guardião documentation workspace.",
+
+  "built_with":
+  "Built with:",
+
+  "open":
+  "Open →"
+}
