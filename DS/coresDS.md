@@ -104,10 +104,19 @@ Com isso, finalmente chegamos à paleta de cores básicas.
 
 ---
 
-## Tokens semânticos
+## Design Tokens (Ou Tokens semânticos)
 
 E dela podemos finalmente destrinchar tokens semânticos, que são muito úteis na criação de biblioteca de código.
 
-Basicamente, tokens semânticos são informações de como um determinado elemento é usado num DS ou numa biblioteca de códigos.
+Basicamente, tokens semânticos são informações de como um determinado elemento é usado num DS ou numa biblioteca de códigos. Eles são locais que armazenam as decisões de design. Eles são formados por um par de chave e valor, focados na funcionalidade de um elemento do design para o sistema. 
 
-Por exemplo, ao invés de ficar colocando a cor azul para um botão e uma cor branca como texto dentro do botão, podemos simplesmente referenciar `primary` para a cor e `onPrimary` para qualquer coisa que vai ficar acima da cor primária, como um texto ou um ícone.
+Por exemplo, ao invés de ficar colocando a cor azul para um botão e uma cor branca como texto dentro do botão, podemos simplesmente referenciar `primary` para a cor e `onPrimary` para qualquer coisa que vai ficar acima da cor primária, como um texto ou um ícone. E a chave `primary` tem um valor específico, por exemplo #291d96. Essa combinação é usada tanto no design, dentro do próprio Figma, quanto para o desenvolvedor que vai criar e consumir as cores e tipografias presentes no app.
+
+Para nosso sistema, usamos uma extensão do figma para gerar os design tokens de Tipografia. 
+
+---
+
+## Referências
+
+-  Eu Sou Moises Rabelo: <https://www.youtube.com/playlist?list=PLIJwVnx284qpM1YJj1Chw0sc2i48p6h6K>
+- O Básico sobre Design Tokens: <https://www.youtube.com/watch?v=N7qP_eBhXOg>
